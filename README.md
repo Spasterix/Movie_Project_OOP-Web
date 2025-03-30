@@ -19,8 +19,8 @@ A modern Python-based movie collection management system with a beautiful web in
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Spasterix/Movie_Projeject_OOP-Web.git
-cd Movie_Projeject_OOP-Web
+git clone https://github.com/Spasterix/Movie_Project_OOP-Web.git
+cd Movie_Project_OOP-Web
 ```
 
 2. **Get your OMDB API Key**
