@@ -1,0 +1,170 @@
+{
+    "The Shawshank Redemption": {
+        "rating": 9.3,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0111161",
+        "country": "United States"
+    },
+    "The Godfather": {
+        "rating": 9.2,
+        "year": 1972,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0068646",
+        "country": "United States"
+    },
+    "The Dark Knight": {
+        "rating": 9.0,
+        "year": 2008,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0468569",
+        "country": "United States"
+    },
+    "Pulp Fiction": {
+        "rating": 8.9,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0110912",
+        "country": "United States"
+    },
+    "Fight Club": {
+        "rating": 8.8,
+        "year": 1999,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0137523",
+        "country": "Germany"
+    },
+    "Inception": {
+        "rating": 8.8,
+        "year": 2010,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt1375666",
+        "country": "United States"
+    },
+    "The Matrix": {
+        "rating": 8.7,
+        "year": 1999,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0133093",
+        "country": "United States"
+    },
+    "Goodfellas": {
+        "rating": 8.7,
+        "year": 1990,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0099685",
+        "country": "United States"
+    },
+    "The Silence of the Lambs": {
+        "rating": 8.6,
+        "year": 1991,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0102926",
+        "country": "United States"
+    },
+    "Schindler's List": {
+        "rating": 9.0,
+        "year": 1993,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0108052",
+        "country": "United States"
+    },
+    "Forrest Gump": {
+        "rating": 8.8,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0109830",
+        "country": "United States"
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+        "rating": 8.9,
+        "year": 2001,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0120737",
+        "country": "New Zealand"
+    },
+    "Star Wars: Episode IV - A New Hope": {
+        "rating": 8.6,
+        "year": 1977,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0076759",
+        "country": "United States"
+    },
+    "Back to the Future": {
+        "rating": 8.5,
+        "year": 1985,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0088763",
+        "country": "United States"
+    },
+    "The Terminator": {
+        "rating": 8.1,
+        "year": 1984,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0088247",
+        "country": "United Kingdom"
+    },
+    "Jurassic Park": {
+        "rating": 8.2,
+        "year": 1993,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0107290",
+        "country": "United States"
+    },
+    "Alien": {
+        "rating": 8.5,
+        "year": 1979,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0078748",
+        "country": "United Kingdom"
+    },
+    "The Lion King": {
+        "rating": 8.5,
+        "year": 1994,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0110357",
+        "country": "United States"
+    },
+    "Gladiator": {
+        "rating": 8.5,
+        "year": 2000,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0172495",
+        "country": "United States"
+    },
+    "Toy Story": {
+        "rating": 8.3,
+        "year": 1995,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0114709",
+        "country": "United States"
+    },
+    "Toy Story 2": {
+        "rating": 7.9,
+        "year": 1999,
+        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_SX300.jpg",
+        "notes": "",
+        "imdb_id": "tt0120363",
+        "country": "United States"
+    }
+}
